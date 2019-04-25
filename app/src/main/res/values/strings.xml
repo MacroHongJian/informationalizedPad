@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">信息化便携平台</string>
+    <string name="login_id">登录账号</string>
+    <string name="remember_id">记住账号</string>
+    <string name="login_shishizhe">实施者登录</string>
+    <string name="login_caozuozhe">操作者登录</string>
+    <string name="main_train_mode">训练模式</string>
+    <string name="main_exmaine_mode">考核模式</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_appraiser_choose">AppraiserChooseActivity</string>
+    <string name="title_kaohezhe">选择考核人</string>
+    <string name="title_yizhongdui">一中队</string>
+    <string name="title_erzhongdui">二中队</string>
+    <string name="title_sanzhongdui">三中队</string>
+    <string name="title_xiulichang">修理厂</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_plane_number_choose">选择飞机号码</string>
+    <string name="title_activity_exam">ExamActivity</string>
+    <string name="section_format">题目: %1$d\n%2$s</string>
+</resources>
